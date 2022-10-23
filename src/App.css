@@ -2,11 +2,13 @@
 {
   padding: 0;
   margin: 0;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Nunito', sans-serif;
 }
 html
 {
-  background: linear-gradient(350deg, #806ff9, #b57bd382);
+  /* background: linear-gradient(350deg, #806ff9, #b57bd382); */
+  background: linear-gradient(322deg, #040024, #139358);
+  color: #ffffffce;
     height: 100vh;
 }
 .main-container
@@ -17,7 +19,7 @@ html
 }
 .main-heading{
   text-align: center;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
   padding: 12px 0;
   box-shadow: 0px 4px 7px #000d1636;
 
@@ -91,4 +93,5 @@ html
 .disabled {
   cursor: no-drop;
   background-color: grey;
+  
 }

@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="main-container">
-      <h1 className='main-heading text-lg text-black'>EV-Tron - ElecTro Meter</h1>
+      <h1 className='main-heading text-lg '>EV-Tron - ElecTro Meter</h1>
       <TransMeter />
 
     </div>
